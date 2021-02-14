@@ -740,7 +740,7 @@ ClassMethod Test()
 	..i ItemID="" d
 	...k ^DHCPEPreIADM(PreIADM,"ORDITEM",ISub)
 	...s i=i+1
-	w 1,!
+	
 	w i,!
 	q
 	k ^TempDHCPE
