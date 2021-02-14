@@ -741,6 +741,12 @@ ClassMethod Test()
 	...k ^DHCPEPreIADM(PreIADM,"ORDITEM",ISub)
 	...s i=i+1
 	
+	While (true) {
+		
+	}
+
+
+
 	w i,!
 	q
 	k ^TempDHCPE
